@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Nhat\OneDrive\Máy tính\SelfLearning\C++\WareHouse\WareHouse\main.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nhat\OneDrive\Máy tính\SelfLearning\C++\WareHouse\WareHouse\main.cpp(57,9): warning C4101: 'choose': unreferenced local variable
+  WareHouse.vcxproj -> C:\Users\Nhat\OneDrive\Máy tính\SelfLearning\C++\WareHouse\x64\Debug\WareHouse.exe

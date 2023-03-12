@@ -1,0 +1,29 @@
+{
+  "Iphone": {
+    "Ip7": {
+      "color": 1,
+      "quantity": 0
+    },
+    "IpX": {
+      "color": 1,
+      "quantity": 0
+    },
+    "Ip13": {
+      "color": 1,
+      "quantity": 0
+    }
+  },
+
+  "Macbook": {
+    "Pro": {
+      "ram": 4,
+      "color": 1,
+      "quantity": 0
+    },
+    "Air": {
+      "ram": 4,
+      "color": 1,
+      "quantity": 0
+    }
+  }
+}

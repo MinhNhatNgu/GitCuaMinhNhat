@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Nhat\OneDrive\Máy tính\SelfLearning\C++\MyProject\MyProject\Main.cpp(96): warning C4715: 'choose_first_menu': not all control paths return a value
+  MyProject.vcxproj -> C:\Users\Nhat\OneDrive\Máy tính\SelfLearning\C++\MyProject\x64\Debug\MyProject.exe

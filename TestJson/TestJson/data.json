@@ -1,0 +1,14 @@
+{
+  "Anna": {
+    "age": 18,
+    "profession": "student"
+  },
+  "Ben": {
+    "age": "nineteen",
+    "profession": "mechanic"
+  },
+  "Nhat": {
+    "age": 19,
+    "profession": "Ngu vai dai"
+  }
+}
